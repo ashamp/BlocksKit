@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                  = 'BTZBlocksKit'
+  s.name                  = 'BlocksKit'
   s.version               = '2.2.5'
   s.license               = 'MIT'
   s.summary               = 'The Objective-C block utilities you always wish you had.'
